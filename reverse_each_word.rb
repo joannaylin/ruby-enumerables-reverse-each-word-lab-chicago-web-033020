@@ -3,7 +3,6 @@ def reverse_each_word(sentence)
     word.reverse!
     end
   array.join(" ")
-  end
 end
 #
 # def reverse_each_word(sentence)
