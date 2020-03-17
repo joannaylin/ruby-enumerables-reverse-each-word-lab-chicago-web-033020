@@ -5,6 +5,7 @@ def reverse_each_word(sentence1)
 
   while i < array.length
     array.reverse_each
+    print array
+    i+=1
   end
-  new_array
 end
